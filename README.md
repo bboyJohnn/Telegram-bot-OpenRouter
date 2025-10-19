@@ -19,7 +19,7 @@ A **Telegram chatbot** powered by **OpenRouter AI** that allows you to chat with
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/telegram-bot-openrouter.git
+git clone https://github.com/bboyJohnn/Telegram-bot-OpenRouter.git
 cd telegram-openrouter-bot
 ```
 
