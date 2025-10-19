@@ -1,4 +1,4 @@
-# 🚀 Telegram Multi-Model AI Bot
+# 🚀 Telegram bot OpenRouter
 
 A **Telegram chatbot** powered by **OpenRouter AI** that allows you to chat with multiple AI models directly in Telegram. Switch between free models like **Mistral**, **Gemma**, **DeepSeek**, and **Qwen** – or easily **add your own custom models** in the code!
 
